@@ -19,3 +19,9 @@ VALUES
 (6, 'Name_6', 35, 60392, 'Sales', 10, 'Los Angeles'),
 (7, 'Name_7', 27, 78542, 'Finance', 6, 'Chicago'),
 (100, 'Name_100', 38, 47896, 'HR', 22, 'Houston');
+(100, 'Name_100', 38, 47896, 'HR', 22, 'Houston');
+(100, 'Name_100', 38, 47896, 'HR', 22, 'Houston');
+(100, 'Name_100', 38, 47896, 'HR', 22, 'Houston');
+(100, 'Name_100', 38, 47896, 'HR', 22, 'Houston');
+(100, 'Name_100', 38, 47896, 'HR', 22, 'Houston');
+(100, 'Name_100', 38, 47896, 'HR', 22, 'Houston');
